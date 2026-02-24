@@ -1,3 +1,5 @@
+![VoxelMR](./VoxelMR.png)
+
 ## Inspiration
 
 Medical scans like CT and MRI contain detailed 3D information about the human body, but doctors usually view them on flat screens. This means surgeons often need to mentally reconstruct complex anatomy from many 2D slices.
